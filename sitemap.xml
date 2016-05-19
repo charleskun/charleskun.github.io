@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.allshare.rocks/about/index.html</loc>
+    
+    <lastmod>2016-05-19T07:08:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.allshare.rocks/2016/05/19/hello-world/</loc>
     
-    <lastmod>2016-05-19T02:35:14.000Z</lastmod>
+    <lastmod>2016-05-19T06:53:00.000Z</lastmod>
     
   </url>
   
